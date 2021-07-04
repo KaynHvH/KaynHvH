@@ -16,7 +16,7 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
 Tutaj trochę o tym jakich języków i framework'eów zazwyczaj używam:
 
 - 🌌 Rust (Learning)
-- ⭐ Javascript (React.js, Discord.js)
+- ⭐ Javascript (Discord.js)
 - ⭐ Python
 - ⭐ CSS (Frameworks: Bootstrap, SASS)
 - ⭐ MongoDB (Database)
