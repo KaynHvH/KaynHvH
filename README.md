@@ -11,9 +11,9 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
 </div>
 
 
-<h2 align="center">Skills:</h2>
+<h2 align="center">Umiejętności:</h2>
 
-<p align="center"><i>From more favourite to less</i></p>
+<p align="center"><i>Od najbardziej do najmniej lubianych</i></p>
 <table style="width:100%" align="center">
   <tr>
     <th>Languages</th>
