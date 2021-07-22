@@ -11,24 +11,47 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
 </div>
 
 
-### Języki programowania
+<h2 align="center">Skills:</h2>
 
-Tutaj trochę o tym jakich języków i framework'eów zazwyczaj używam:
-
-- 🌌 Rust (Learning)
-- ⭐ Javascript (Discord.js)
-- ⭐ Python
-- ⭐ CSS (Frameworks: Bootstrap, SASS)
-- ⭐ MongoDB (Database)
-- ⭐ Git CLI
-
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=b88c27&message=Rust%EF%B8%B130%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B1100%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B170%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B140%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=306998&message=Python%EF%B8%B160%25)
-![MongoDB](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=4DB33D&message=MongoDB%EF%B8%B145%25)
-![Github](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=FFFFFF&message=Github%EF%B8%B190%25)
+<p align="center"><i>From more favourite to less</i></p>
+<table style="width:100%" align="center">
+  <tr>
+    <th>Languages</th>
+    <th>IDEs/CodeEditors</th>
+    <th>Databases</th>
+    <th>OS</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
+  </tr>
+  <tr>
+	  <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></td>
+  </tr>
+  <tr>
+	  <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></td>
+	  <td></td>
+  </tr>
+  <tr>
+	  <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></td>
+	  <td></td>
+	  <td></td>
+  </tr>
+  <tr>
+	  <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></td>
+	  <td></td>
+	  <td></td>
+  </tr>
+</table>
 
 
 ## Kontakt
