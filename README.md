@@ -24,7 +24,6 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
   <tr>
     <td><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></td>
 	  <td><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></td>
-	  <td><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></td>
 	  <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
   </tr>
   <tr>
@@ -36,7 +35,6 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
   <tr>
 	  <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></td>
 	  <td><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></td>
-	  <td><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></td>
 	  <td></td>
   </tr>
   <tr>
