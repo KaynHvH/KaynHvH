@@ -54,11 +54,8 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
 
 <h2 align="center">Kontakt:</h3>
 
-<p align="center">
- <h3>Możesz się ze mną skontakować przez:</h3>
-</p>
-<center>
+## Kontakt
+Możesz się ze mną skontaktować przez:
  [Discord](https://discord.gg/SyhHPgswbB)
-	</center>
 
 ## Miłego dnia! 👋
