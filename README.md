@@ -3,14 +3,6 @@
 ## O mnie 🕵️
 Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około roku. Cały czas uczę się nowych technologi. Moim ulubionym językiem jest Python i Rust bo to w nich spędzam najwięcej czasu i dużo się w ich naukę angażuję.
 
-<div align="center">
-<details>
-  <summary>Statystyki githuba</summary>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaynHvH&layout=compact&theme=tokyonight"/><br><br>
-</details>
-</div>
-
-
 <h2 align="center">Umiejętności:</h2>
 
 <p align="center"><i>Od najbardziej do najmniej lubianych</i></p>
@@ -51,11 +43,20 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
   </tr>
 </table>
 
+<h2 align="center">Statystyki:</h3>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaynHvH&count_private=true&hide=html,yacc,FreeMarker,Brainfuck&exclude_repo=Intralism-rawAssemblyCSharp,test-0312&layout=compact&theme=tokyonight" />
+</p>
 
-## Kontakt
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dmitrijvc&theme=onedark&margin-w=5&margin-h=5&no-bg=false"></p>
+<br>
 
-Możesz się ze mną skontaktować przez:
 
-[Discord](https://discord.gg/SyhHPgswbB)
+<h2 align="center">Kontakt:</h3>
+
+<p align="center">
+ <h3>Możesz się ze mną skontakować przez:</h3>
+ [Discord](https://discord.gg/SyhHPgswbB)
+</p>
 
 ## Miłego dnia! 👋
