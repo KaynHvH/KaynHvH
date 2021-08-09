@@ -14,9 +14,9 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
     <th>OS</th>
   </tr>
   <tr>
-	  <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></td>
 	  <td><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></td>
+	  <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
   </tr>
   <tr>
 	  <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
