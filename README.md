@@ -21,7 +21,6 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
 	  <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></td>
 	  <td><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></td>
 	  <td><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></td>
-	  <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
 	  <td><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></td>
   </tr>
   <tr>
@@ -38,6 +37,7 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
   <tr>
 	  <td><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></td>
 	  <td><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></td>
+	  <td><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></td>
 	  <td></td>
 	  <td></td>
   </tr>
