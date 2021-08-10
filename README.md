@@ -49,8 +49,9 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dmitrijvc&theme=onedark&margin-w=5&margin-h=5&no-bg=false"></p>
 <br>
-
-
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<br>
 <h2 align="center">Kontakt:</h3>
 
 ## Kontakt
