@@ -66,10 +66,6 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"></a>
 </p>
 
-<h2 align="center">Statystyki:</h3>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaynHvH&count_private=true&hide=html,yacc,FreeMarker,Brainfuck&exclude_repo=Intralism-rawAssemblyCSharp,test-0312&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dmitrijvc&theme=onedark&margin-w=5&margin-h=5&no-bg=false"></p>
 <br>
