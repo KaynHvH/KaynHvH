@@ -5,9 +5,9 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
 
 <h2 align="center">Umiejętności:</h2>
 
-## 🛠️ My Skills
+## 🛠️ Moje umiejętności
 
-### 💻 Programming languages
+### 💻 Języki programowania
 
 <p align="left">
   &emsp; 
@@ -25,10 +25,6 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
 &emsp;
    <a href="https://www.java.com/pl/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/java-F7DF1E?style=for-the-badge&logo=java&logoColor=red">
-  </a>
-&emsp;
-   <a href="https://pl.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img alt="C++ (in a little bit)" src="https://img.shields.io/badge/c++-674ea7?style=for-the-badge&logo=c&logoColor=white">
   </a>
 </p>
 
@@ -67,7 +63,7 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=eh&logoColor=white"></a>
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"></a>
 </p>
 
 <h2 align="center">Statystyki:</h3>
