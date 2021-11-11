@@ -3,7 +3,6 @@
 ## O mnie 🕵️
 Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około roku. Cały czas uczę się nowych technologi. Moim ulubionym językiem jest Python i Rust bo to w nich spędzam najwięcej czasu i dużo się w ich naukę angażuję.
 
-<h2 align="center">Umiejętności:</h2>
 
 ## 🛠️ Moje umiejętności
 
