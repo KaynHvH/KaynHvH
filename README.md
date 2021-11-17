@@ -70,7 +70,7 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
 <br>
 <br>
 <h1 align ="center">
- <img src="https://count.getloli.com/get/@:workonfire" alt=":workonfire" />
+ <img src="https://count.getloli.com/get/@:KaynHvH" alt=":KaynHvH" />
 </h1>
 <br>
 <h2 align="center">Kontakt:</h3>
