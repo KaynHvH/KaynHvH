@@ -1,12 +1,13 @@
 ## Cześć! Jestem KayN 👋
 
 ## O mnie 🕵️
-Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około roku. Cały czas uczę się nowych technologi. Moim ulubionym językiem jest Python i Rust bo to w nich spędzam najwięcej czasu i dużo się w ich naukę angażuję.
+Nice to meet you! My name is Krystian and I am 15 years old. My main hobby is programming. I've been doing this for a year and a half and I'm still learning new technologies and programming languages. I am generally interested in Artificial Intelligence, Robotics, and Windowing Application Programming.
+I have experience with Rust, Python, C#, Java programming langauges. 
 
 
-## 🛠️ Moje umiejętności
+## 🛠️ My skills
 
-### 💻 Języki programowania
+### 💻 Programming languages
 
 <p align="left">
   &emsp; 
@@ -27,7 +28,7 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
   </a>
 </p>
 
-### ☁ Bazy danych i hosting w chmurze
+### ☁ Database and cloud hosting
 
 <p align="left">
   &emsp;
@@ -36,7 +37,7 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>  
  </p>
 
-### 🎨 Grafika i design
+### 🎨 Design
 
 <p align="left">
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
@@ -48,7 +49,7 @@ Mam na imię Krystian i mam 15 lat. Interesuję się programowaniem od około ro
   </a>
  </p>
 
-### ⚙ Narzędzia i oprogramowanie
+### ⚙ Tools and software
 
 <p>
   &emsp;
