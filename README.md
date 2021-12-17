@@ -1,6 +1,6 @@
-## Cześć! Jestem KayN 👋
+## Hello! I am KayN 👋
 
-## O mnie 🕵️
+## About me 🕵️
 Nice to meet you! My name is Krystian and I am 15 years old. My main hobby is programming. I've been doing this for a year and a half and I'm still learning new technologies and programming languages. I am generally interested in Artificial Intelligence, Robotics, and Windowing Application Programming.
 I have experience with Rust, Python, C#, Java programming langauges. 
 
