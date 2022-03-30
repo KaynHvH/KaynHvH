@@ -70,11 +70,6 @@ I have experience with Rust, Python, C#, Java programming langauges.
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dmitrijvc&theme=onedark&margin-w=5&margin-h=5&no-bg=false"></p>
 <br>
 <br>
-<h1 align ="center">
- <img src="https://count.getloli.com/get/@:KaynHvH" alt=":KaynHvH" />
-</h1>
-<br>
-<h2 align="center">Kontakt:</h3>
 
 ## Kontakt
 Możesz się ze mną skontaktować przez:
