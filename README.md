@@ -4,9 +4,9 @@
   <h2>👨 About Me</h2>
   <p>
     <samp>
-       My name is Krystian, and I am a self-taught developer. ☕ I know Java, Rust, Python at a good level and Csharp in in small extent. I'll learn Kotlin and Docker.
+       My name is Krystian, and I am a self-taught developer. ☕ I know Java, Rust, Python at a good level and Csharp in in small extent. I'll learn Golang and Docker.
       I love dogs 💝 and I have one. His name is Ramos and he is an Alaskan Malamute breed. 🐩
-      I know Polish, English and German, but I am starting to learn Spanish, after which I will learn Italian.
+         I know Polish, English and German, but I am starting to learn Spanish, after which I will learn Italian.
     </samp>
   </p>
   
