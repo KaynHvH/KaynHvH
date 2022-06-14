@@ -16,7 +16,7 @@
   ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
   ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat&logo=csharp)
-  ![Typescript](https://img.shields.io/badge/-typescript-black?style=flat&logo=typescript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
   <br>
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
