@@ -4,7 +4,7 @@
   <h2>👨 About Me</h2>
   <p>
     <samp>
-       My name is Krystian, and I am a self-taught developer. ☕ I know Java, Rust, Python at a good level and Csharp in in small extent. I'll learn Golang and Docker.
+       My name is Krystian, and I am a self-taught developer. ☕ I know Java, Rust, Python, Typescript at a good level and Csharp in in small extent. I'll learn Golang and Docker.
       I love dogs 💝 and I have one. His name is Ramos and he is an Alaskan Malamute breed. 🐩
        <br> I know Polish, English and German, but I am starting to learn Spanish, after which I will learn Italian.
     </samp>
@@ -15,7 +15,8 @@
   ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)  
   ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-  ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat&logo=csharp) 
+  ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat&logo=csharp)
+  ![Typescript](https://img.shields.io/badge/-typescript-black?style=flat&logo=typescript)
   <br>
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
