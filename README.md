@@ -18,6 +18,8 @@
   ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat&logo=csharp)
   ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
   <br>
+  ![Express](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+  ![React](https://img.shields.io/badge/-React.js-black?style=flat&logo=react)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-Github-black?style=flat&logo=github)
   ![InteliJ Idea](https://img.shields.io/badge/InteliJ%20idea-black?style=flat&logo=intellij-idea)
