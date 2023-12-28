@@ -17,7 +17,7 @@
 
 ###
 
-<p align="center">Hi, my name Krystian, known also as KayN and I come from Poland. I am a 16 years old man who is trying his hand at programming.<br><br>- 📚 I'm currently learning Golang and PostreSQL<br>- 🌌 In the future I want to learn Typescript, React and React Native<br>- 🤼‍♂️ In my free time I like to train combat sports like MMA and BJJ</p>
+<p align="center">Hi, I'm Krystian, known also as KayN and I come from Poland. I am a 16 years old man who is trying his hand at programming.<br><br>- 📚 I'm currently learning Golang and PostreSQL<br>- 🌌 In the future I want to learn Typescript, React and React Native<br>- 🤼‍♂️ In my free time I like to train combat sports like MMA and BJJ</p>
 
 ###
 
